@@ -1,7 +1,7 @@
 package jdm;
 
 import robocode.*;
-import java.awt.Color;
+// import java.awt.Color;
 
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
 
